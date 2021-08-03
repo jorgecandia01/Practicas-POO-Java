@@ -1,0 +1,10 @@
+clave, titulo, asignatura, nota teoría, % práctica, nota práctica
+20180001, GITT, Programación, 8, 25, 9
+20180001, GITT, Estadística, 8
+20180001, GITT, Teoría de la Comunicación, 7
+20180002, GITT, Programación, 7, 25, 6 
+20180002, GITT, Sistemas Digitales, 5, 33, 7
+20180003, GITT, Teoría de la Comunicación, 9
+20180003, GITT, Sistemas Digitales, 8, 33, 5
+20180004, GITT, Estadística, 5
+20180001, GITI, Mecánica, 6
